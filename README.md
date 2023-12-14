@@ -5,7 +5,7 @@
 
 
 ##### Project contribution by:
- * Aditya Bharadwaj (SE21UARI007)
+ * Aditya Bhardwaj (SE21UARI007)
  * Aaryan Ray (SE21UARI021)
  * Nandika Soni (SE21UARI090)
  * Raywant Beniwal (SE21UARI114)
